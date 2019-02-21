@@ -1682,7 +1682,7 @@ header {
 \*------------------------------------*/
 
 #whatsapp-go {
-    display:none;
+    display:block;
     position: fixed;
     bottom: 80px;
     right: 20px;
