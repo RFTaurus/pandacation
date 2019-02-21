@@ -5,7 +5,7 @@ Author: yaminncco
 Colors:
 	Body 		  : #868F9B
 	Headers 	: #10161A
-	Primary 	: violet
+	Primary 	: #0bb89e
 	Dark      : #FCFCFF
 	Grey 		  : #F4F4F4 #FAFAFA #EEE
 
@@ -81,7 +81,7 @@ h5 {
 }
 
 a {
-    color: violet;
+    color: #0bb89e;
     text-decoration: none;
     -webkit-transition: 0.2s opacity;
     transition: 0.2s opacity;
@@ -91,11 +91,11 @@ a:hover, a:focus {
     text-decoration: none;
     outline: none;
     opacity: 0.8;
-    color: violet;
+    color: #0bb89e;
 }
 
 .main-color {
-    color: violet;
+    color: #0bb89e;
 }
 
 .white-text {
@@ -103,12 +103,12 @@ a:hover, a:focus {
 }
 
 ::-moz-selection {
-    background-color: violet;
+    background-color: #0bb89e;
     color: #FFF;
 }
 
 ::selection {
-    background-color: violet;
+    background-color: #0bb89e;
     color: #FFF;
 }
 
@@ -189,7 +189,7 @@ ul, ol {
   	display:block;
   	height:4px;
   	width:40px;
-  	background-color: violet;
+  	background-color: #0bb89e;
     margin-top: 20px;
 }
 
@@ -219,7 +219,7 @@ textarea {
 }
 
 input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus, input[type="number"]:focus, input[type="date"]:focus, input[type="url"]:focus, input[type="tel"]:focus, textarea:focus {
-    border-color: violet;
+    border-color: #0bb89e;
     opacity: 1;
 }
 
@@ -236,7 +236,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .main-btn {
-    background: violet;
+    background: #0bb89e;
     color: #FFF;
 }
 
@@ -247,9 +247,9 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 
 .outline-btn {
     background: transparent;
-    color: violet !important;
+    color: #0bb89e !important;
     font-weight: bold;
-    border-color: violet;
+    border-color: #0bb89e;
 }
 
 .main-btn:hover, .white-btn:hover, .outline-btn:hover {
@@ -344,12 +344,12 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     }
     .main-nav>li>a:hover, .main-nav>li>a:focus, .main-nav>li.active>a {
         background: transparent;
-        color: violet;
+        color: #0bb89e;
     }
     .main-nav>li>a:after {
         content: "";
         display: block;
-        background-color: violet;
+        background-color: #0bb89e;
         height: 2px;
         width: 0%;
         -webkit-transition: 0.2s width;
@@ -378,7 +378,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
         position: absolute;
         right: -50%;
         top: 0;
-        background-color: violet;
+        background-color: #0bb89e;
         width: 200px;
         -webkit-box-shadow: 0px 5px 5px -5px rgba(53, 64, 82, 0.2);
         box-shadow: 0px 5px 5px -5px rgba(53, 64, 82, 0.2);
@@ -466,10 +466,10 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
         transition: 0.2s all;
     }
     .main-nav>li.active {
-        border-left: 6px solid violet;
+        border-left: 6px solid #0bb89e;
     }
     .main-nav li a:hover, .main-nav li a:focus {
-        background-color: violet;
+        background-color: #0bb89e;
         color: #FFF;
         opacity: 1;
     }
@@ -599,7 +599,7 @@ header {
 }
 
 .home-content b {
-    color: violet;
+    color: #0bb89e;
 }
 
 .home-content button {
@@ -640,7 +640,7 @@ header {
 
 .about i {
     font-size: 36px;
-    color: violet;
+    color: #0bb89e;
     margin-bottom: 20px;
 }
 
@@ -744,7 +744,7 @@ header {
     -ms-transform: translateY(100%);
     transform: translateY(100%);
     opacity: 0;
-    color: violet;
+    color: #0bb89e;
     margin-bottom: 5px;
     -webkit-transition: 0.2s all;
     transition: 0.2s all;
@@ -773,7 +773,7 @@ header {
     display: inline-block;
     width: 50px;
     height: 50px;
-    background-color: violet;
+    background-color: #0bb89e;
     color: #FFF;
     line-height: 50px;
     text-align: center;
@@ -802,7 +802,7 @@ header {
     left: 20px;
     text-align: center;
     font-size: 32px;
-    color: violet;
+    color: #0bb89e;
     border-radius: 50%;
 }
 
@@ -843,10 +843,10 @@ header {
     float: left;
     padding: 5px;
     border-radius: 50%;
-    border: 1px solid violet;
+    border: 1px solid #0bb89e;
     margin-right: 5px;
     color:aliceblue;
-    background-color: violet;
+    background-color: #0bb89e;
 }
 
 /*------------------------------------*\
@@ -859,7 +859,7 @@ header {
 }
 
 .number i {
-    color: violet;
+    color: #0bb89e;
     font-size: 36px;
     margin-bottom: 20px;
 }
@@ -914,7 +914,7 @@ header {
 }
 
 .pricing:hover .price-title {
-    color: violet;
+    color: #0bb89e;
 }
 
 .pricing .price {
@@ -925,7 +925,7 @@ header {
     text-align: center;
     margin: auto;
     border-radius: 50%;
-    border: 2px solid violet;
+    border: 2px solid #0bb89e;
 }
 
 .pricing .price h3 {
@@ -964,8 +964,8 @@ header {
     padding-bottom: 40px;
 }
 
-.price-btn button{
-    /* background-color: violet; */
+.price-content b{
+    color: #0bb89e;
 }
 
 /*------------------------------------*\
@@ -999,7 +999,7 @@ header {
 
 .testimonial span {
     font-size: 14px;
-    color: violet;
+    color: #0bb89e;
     text-transform: uppercase;
 }
 
@@ -1082,7 +1082,7 @@ header {
 }
 
 .team:hover .team-content span {
-    color: violet;
+    color: #0bb89e;
 }
 
 .team .team-social {
@@ -1099,7 +1099,7 @@ header {
     line-height: 50px;
     width: 50px;
     text-align: center;
-    background-color: violet;
+    background-color: #0bb89e;
     color: #FFF;
 }
 
@@ -1133,7 +1133,7 @@ header {
 }
 
 .blog .blog-meta li i {
-    color: violet;
+    color: #0bb89e;
     margin-right: 5px;
 }
 
@@ -1171,12 +1171,12 @@ header {
 
 .blog-tags a:hover {
   color: #FFF;
-  background-color: violet;
+  background-color: #0bb89e;
 }
 
 .blog-tags a i {
     margin-right: 3px;
-    color: violet;
+    color: #0bb89e;
 }
 
 .blog-tags a:hover i {
@@ -1224,7 +1224,7 @@ header {
     border-radius: 3px;
     margin-left: 5px;
     color: #FFF;
-    background-color: violet;
+    background-color: #0bb89e;
 }
 
 /* -- blog comments -- */
@@ -1277,11 +1277,11 @@ header {
 
 .blog-comments .media.author {
     background-color: #F4F4F4;
-    border-color: violet;
-    border-bottom: 1px solid violet;
+    border-color: #0bb89e;
+    border-bottom: 1px solid #0bb89e;
 }
 .blog-comments .media.author>.media-body>.media-heading {
-    color: violet;
+    color: #0bb89e;
 }
 
 .blog-comments .media.author + .media {
@@ -1339,7 +1339,7 @@ header {
     border: none;
     line-height: 40px;
     background-color: transparent;
-    color: violet;
+    color: #0bb89e;
 }
 
 /* -- category sidebar -- */
@@ -1358,11 +1358,11 @@ header {
 
 .widget-category a span {
     float: right;
-    color: violet;
+    color: #0bb89e;
 }
 
 .widget-category a:hover {
-    color: violet;
+    color: #0bb89e;
 }
 
 /* -- tags sidebar -- */
@@ -1378,7 +1378,7 @@ header {
 
 .widget-tags a:hover {
   color: #FFF;
-  background-color: violet;
+  background-color: #0bb89e;
 }
 
 /* -- posts sidebar -- */
@@ -1401,7 +1401,7 @@ header {
 }
 
 .widget-post a:hover {
-    color: violet;
+    color: #0bb89e;
 }
 
 .widget-post .blog-meta {
@@ -1411,13 +1411,13 @@ header {
 .widget-post .blog-meta li {
     display: inline-block;
     margin-right: 5px;
-    color: violet;
+    color: #0bb89e;
     /* color: #6195FF; */
     font-size: 12px;
 }
 
 .widget-post li i {
-    color: violet;
+    color: #0bb89e;
     margin-right: 5px;
 }
 
@@ -1433,12 +1433,12 @@ header {
 }
 
 .contact p{
-    text-decoration-color: violet;
+    text-decoration-color: #0bb89e;
 }
 
 .contact i {
     font-size: 36px;
-    color: violet;
+    color: #0bb89e;
     margin-bottom: 20px;
 }
 
@@ -1495,7 +1495,7 @@ header {
   line-height: 50px;
   text-align: center;
   border-radius: 3px;
-  background-color: violet;
+  background-color: #0bb89e;
   color:#FFF;
 }
 
@@ -1602,10 +1602,10 @@ header {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-    background: violet;
+    background: #0bb89e;
 }
 .owl-theme .owl-dots .owl-dot.active span {
-	  background: violet;
+	  background: #0bb89e;
 	  width:20px;
 }
 
@@ -1627,7 +1627,7 @@ header {
     -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
             transform: translateY(-50%);
-    background: violet;
+    background: #0bb89e;
     color: #FFF;
   	padding: 0px;
   	width: 50px;
@@ -1647,7 +1647,7 @@ header {
 
 .owl-theme .owl-nav [class*='owl-']:hover {
     opacity: 0.8;
-    background: violet;
+    background: #0bb89e;
 }
 
 
@@ -1664,8 +1664,8 @@ header {
   	height: 50px;
   	line-height: 50px;
   	text-align: center;
-  	background: violet;
-  	border-radius:3px;
+  	background: #0bb89e;
+  	border-radius:50px;
   	color: #FFF;
   	z-index: 9999;
     -webkit-transition: 0.2s opacity;
@@ -1676,6 +1676,36 @@ header {
 #back-to-top:hover {
     opacity: 0.8;
 }
+
+/*------------------------------------*\
+	Whatsapp-go
+\*------------------------------------*/
+
+#whatsapp-go {
+    display:none;
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: #0bb89e;
+    border-radius:50px;
+    color: #FFF;
+    z-index: 9999;
+    -webkit-transition: 0.2s opacity;
+    transition: 0.2s opacity;
+    cursor: pointer;
+}
+
+#whatsapp-go:hover {
+  opacity: 0.8;
+}
+
+#whatsapp-go a {
+    color: aliceblue;
+  }
 
 /*------------------------------------*\
 	Google-Form
@@ -1710,7 +1740,7 @@ header {
 }
 .preloader span {
     display: inline-block;
-    background-color: violet;
+    background-color: #0bb89e;
     width: 25px;
     height: 25px;
     -webkit-animation: 1s preload ease-in-out infinite;
